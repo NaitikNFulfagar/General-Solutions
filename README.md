@@ -1,5 +1,11 @@
 # General-Solutions
 -----------------------------------------------------------------------------------------------------
 
-From This Code We can General Solutions  
-Here I am with Code of General Solutions from Differtial Equation 
+This Code is in Python
+
+From This Code We can Obtain General Solutions from Differtial Equation 
+
+
+Just Need to Install Library Sympy 
+
+-------pip install sympy
